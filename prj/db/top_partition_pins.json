@@ -1,0 +1,193 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "led0",
+					"strict" : false
+				},
+				{
+					"name" : "led1",
+					"strict" : false
+				},
+				{
+					"name" : "PA5",
+					"strict" : false
+				},
+				{
+					"name" : "PA4",
+					"strict" : false
+				},
+				{
+					"name" : "PA3",
+					"strict" : false
+				},
+				{
+					"name" : "PA2",
+					"strict" : false
+				},
+				{
+					"name" : "PA1",
+					"strict" : false
+				},
+				{
+					"name" : "beep",
+					"strict" : false
+				},
+				{
+					"name" : "Rs232_Tx",
+					"strict" : false
+				},
+				{
+					"name" : "Rs232_Tx_Serial",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_de",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_clk",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rst",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_bl",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rgb[0]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rgb[1]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rgb[2]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rgb[3]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rgb[4]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rgb[5]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rgb[6]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rgb[7]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rgb[8]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rgb[9]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rgb[10]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rgb[11]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rgb[12]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rgb[13]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rgb[14]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rgb[15]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rgb[16]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rgb[17]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rgb[18]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rgb[19]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rgb[20]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rgb[21]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rgb[22]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_rgb[23]",
+					"strict" : false
+				},
+				{
+					"name" : "wifi_key1",
+					"strict" : false
+				},
+				{
+					"name" : "wifi_key2",
+					"strict" : false
+				},
+				{
+					"name" : "Clk",
+					"strict" : false
+				},
+				{
+					"name" : "Rst_n",
+					"strict" : false
+				},
+				{
+					"name" : "Busy",
+					"strict" : false
+				},
+				{
+					"name" : "key_in",
+					"strict" : false
+				},
+				{
+					"name" : "key_in2",
+					"strict" : false
+				},
+				{
+					"name" : "Rs232_Rx",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

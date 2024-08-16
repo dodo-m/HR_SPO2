@@ -1,0 +1,2 @@
+Info (10281): Verilog HDL Declaration information at System_Top.v(21): object "beep" differs only in case from object "Beep" in the same scope File: C:/Users/lonely/Desktop/test2/rtl/System_Top.v Line: 21
+Warning (10268): Verilog HDL information at uart_byte_rx.v(148): always construct contains both blocking and non-blocking assignments File: C:/Users/lonely/Desktop/test2/rtl/data_sensor/uart_byte_rx.v Line: 148

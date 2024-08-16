@@ -1,0 +1,31 @@
+
+State Machine - |System_Top|Read:Read|State
+Name State.00000111 State.00000110 State.00000101 State.00000100 State.00000011 State.00000010 State.00000001 State.00000000 
+State.00000000 0 0 0 0 0 0 0 0 
+State.00000001 0 0 0 0 0 0 1 1 
+State.00000010 0 0 0 0 0 1 0 1 
+State.00000011 0 0 0 0 1 0 0 1 
+State.00000100 0 0 0 1 0 0 0 1 
+State.00000101 0 0 1 0 0 0 0 1 
+State.00000110 0 1 0 0 0 0 0 1 
+State.00000111 1 0 0 0 0 0 0 1 
+
+State Machine - |System_Top|sensor:sensor_inst|FSM:FSM|Right_State
+Name Right_State.S2 Right_State.S1 Right_State.S0 
+Right_State.S0 0 0 0 
+Right_State.S1 0 1 1 
+Right_State.S2 1 0 1 
+
+State Machine - |System_Top|Key:Key_2|key_filter:key_filter_1|state
+Name state.FILTER1 state.DOWN state.FILTER0 state.IDEL 
+state.IDEL 0 0 0 0 
+state.FILTER0 0 0 1 1 
+state.DOWN 0 1 0 1 
+state.FILTER1 1 0 0 1 
+
+State Machine - |System_Top|Key:Key_1|key_filter:key_filter_1|state
+Name state.FILTER1 state.DOWN state.FILTER0 state.IDEL 
+state.IDEL 0 0 0 0 
+state.FILTER0 0 0 1 1 
+state.DOWN 0 1 0 1 
+state.FILTER1 1 0 0 1 

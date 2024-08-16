@@ -1,0 +1,15 @@
+
+
+ncvlog      "C:/Users/lonely/Desktop/test2/rtl/fir/fir_low_sim/altera_avalon_sc_fifo.v"                        
+ncvhdl -v93 "C:/Users/lonely/Desktop/test2/rtl/fir/fir_low_sim/auk_dspip_math_pkg_hpfir.vhd"                   
+ncvhdl -v93 "C:/Users/lonely/Desktop/test2/rtl/fir/fir_low_sim/auk_dspip_lib_pkg_hpfir.vhd"                    
+ncvhdl -v93 "C:/Users/lonely/Desktop/test2/rtl/fir/fir_low_sim/auk_dspip_avalon_streaming_controller_hpfir.vhd"
+ncvhdl -v93 "C:/Users/lonely/Desktop/test2/rtl/fir/fir_low_sim/auk_dspip_avalon_streaming_sink_hpfir.vhd"      
+ncvhdl -v93 "C:/Users/lonely/Desktop/test2/rtl/fir/fir_low_sim/auk_dspip_avalon_streaming_source_hpfir.vhd"    
+ncvhdl -v93 "C:/Users/lonely/Desktop/test2/rtl/fir/fir_low_sim/auk_dspip_roundsat_hpfir.vhd"                   
+ncvhdl -v93 "C:/Users/lonely/Desktop/test2/rtl/fir/fir_low_sim/dspba_library_package.vhd"                      
+ncvhdl -v93 "C:/Users/lonely/Desktop/test2/rtl/fir/fir_low_sim/dspba_library.vhd"                              
+ncvhdl -v93 "C:/Users/lonely/Desktop/test2/rtl/fir/fir_low_sim/fir_low_rtl.vhd"                                
+ncvhdl -v93 "C:/Users/lonely/Desktop/test2/rtl/fir/fir_low_sim/fir_low_ast.vhd"                                
+ncvhdl -v93 "C:/Users/lonely/Desktop/test2/rtl/fir/fir_low_sim/fir_low.vhd"                                    
+ncvhdl -v93 "C:/Users/lonely/Desktop/test2/rtl/fir/fir_low_sim/fir_low_tb.vhd"                                 

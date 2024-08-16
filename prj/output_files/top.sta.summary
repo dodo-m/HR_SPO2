@@ -1,0 +1,113 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'Clk'
+Slack : -13.410
+TNS   : -49330.263
+
+Type  : Slow 1200mV 85C Model Setup 'lcd:lcd|clk_div:u_clk_div|clk_25m'
+Slack : -10.769
+TNS   : -302.850
+
+Type  : Slow 1200mV 85C Model Setup 'dataram:dataram|waddr[0]'
+Slack : -5.123
+TNS   : -88.849
+
+Type  : Slow 1200mV 85C Model Hold 'dataram:dataram|waddr[0]'
+Slack : -1.369
+TNS   : -10.618
+
+Type  : Slow 1200mV 85C Model Hold 'Clk'
+Slack : -0.161
+TNS   : -0.219
+
+Type  : Slow 1200mV 85C Model Hold 'lcd:lcd|clk_div:u_clk_div|clk_25m'
+Slack : 0.452
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Clk'
+Slack : -3.201
+TNS   : -6503.585
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'lcd:lcd|clk_div:u_clk_div|clk_25m'
+Slack : -1.487
+TNS   : -65.428
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'dataram:dataram|waddr[0]'
+Slack : 0.176
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'Clk'
+Slack : -12.630
+TNS   : -47036.445
+
+Type  : Slow 1200mV 0C Model Setup 'lcd:lcd|clk_div:u_clk_div|clk_25m'
+Slack : -9.949
+TNS   : -281.363
+
+Type  : Slow 1200mV 0C Model Setup 'dataram:dataram|waddr[0]'
+Slack : -4.732
+TNS   : -83.492
+
+Type  : Slow 1200mV 0C Model Hold 'dataram:dataram|waddr[0]'
+Slack : -1.160
+TNS   : -7.355
+
+Type  : Slow 1200mV 0C Model Hold 'Clk'
+Slack : -0.067
+TNS   : -0.068
+
+Type  : Slow 1200mV 0C Model Hold 'lcd:lcd|clk_div:u_clk_div|clk_25m'
+Slack : 0.401
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Clk'
+Slack : -3.201
+TNS   : -6503.585
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'lcd:lcd|clk_div:u_clk_div|clk_25m'
+Slack : -1.487
+TNS   : -65.428
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'dataram:dataram|waddr[0]'
+Slack : -0.014
+TNS   : -0.071
+
+Type  : Fast 1200mV 0C Model Setup 'Clk'
+Slack : -5.554
+TNS   : -20267.031
+
+Type  : Fast 1200mV 0C Model Setup 'lcd:lcd|clk_div:u_clk_div|clk_25m'
+Slack : -4.002
+TNS   : -108.424
+
+Type  : Fast 1200mV 0C Model Setup 'dataram:dataram|waddr[0]'
+Slack : -1.947
+TNS   : -27.188
+
+Type  : Fast 1200mV 0C Model Hold 'dataram:dataram|waddr[0]'
+Slack : -0.732
+TNS   : -4.751
+
+Type  : Fast 1200mV 0C Model Hold 'Clk'
+Slack : -0.254
+TNS   : -0.576
+
+Type  : Fast 1200mV 0C Model Hold 'lcd:lcd|clk_div:u_clk_div|clk_25m'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Clk'
+Slack : -3.000
+TNS   : -4740.631
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'lcd:lcd|clk_div:u_clk_div|clk_25m'
+Slack : -1.000
+TNS   : -44.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'dataram:dataram|waddr[0]'
+Slack : 0.292
+TNS   : 0.000
+
+------------------------------------------------------------
